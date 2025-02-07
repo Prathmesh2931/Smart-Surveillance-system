@@ -1,0 +1,64 @@
+Frame: frames/frame_0.jpg
+Description:  The image appears to show a physical altercation between two individuals. One person is on the ground with another person seemingly striking them. There's no clear indication of facial expressions that would provide information about emotions like fear, aggression, or danger as it captures a very dynamic and fast-moving moment.
+
+The violence level in this image could be rated high due to the physical contact and the intensity of the situation. However, without additional context or knowledge of the circumstances leading up to or following this incident, it's not possible to provide an accurate percentage rating for violence. It is important to note that any assessment of violence should take into account the broader context of the event, including the nature of the confrontation, any verbal exchanges that may have occurred prior to the moment captured, and the level of force being used. 
+Violence Score: 0%
+
+Frame: frames/frame_30.jpg
+Description:  The image shows a person who appears to be in distress and possibly undergoing an act of aggression or abuse. The individual is crouching down and seems to be trying to shield themselves from what looks like a physical attack, as indicated by the defensive posture. The expression on the face could suggest fear or discomfort, depending on the context.
+
+In terms of violence, while it's not possible to ascertain exact percentages from an image, the actions depicted—such as pushing or striking another person—indicate that there is a level of physical aggression occurring in the scene. The presence of what appears to be an attacker and the defended individual suggests a scenario where violence is occurring, likely at a high percentage.
+
+It's important to note that without additional context or information about the individuals and their actions leading up to this moment, this analysis is based solely on the visible elements in the image. 
+Violence Score: 0%
+
+Frame: frames/frame_60.jpg
+Description:  The image appears to be a screenshot from a video, specifically from a platform that seems to host unfiltered content, given the low resolution and overlaid interface elements. It shows a person mid-motion on what looks like a sidewalk or street. There is no clear evidence of fighting, abuse, violence, or assault in this image; it simply captures an action shot of the person running or walking quickly.
+
+The emotions of fear, aggression, or danger are not evident from the still image. The individual seems to be moving with purpose, possibly jogging or in a hurry, rather than being involved in a threatening situation.
+
+It is difficult to accurately assess violence in percentages from such an image, as the percentage would depend on context and the specific actions captured in the video. However, based on this single frame without additional information, there are no signs of physical harm or conflict that can be definitively measured or rated. 
+Violence Score: 0%
+
+Frame: frames/frame_90.jpg
+Description:  This image appears to show a screenshot from a video that seems to capture an altercation or fight between two individuals outdoors. The person in the foreground is moving towards the other individual with their arms raised and posture suggesting they are attempting to strike the other person. Their expression could be interpreted as aggressive or defensive, depending on context. The individual being approached seems to be responding by moving away from the attacker or trying to block the incoming action.
+
+As for signs of fighting or violence, there is clear physical contact and one person appears to be throwing a punch towards the other, which would be considered an act of aggression or violence. There are no visible signs of fear or danger in this image; both individuals seem focused on the confrontation at hand.
+
+The image itself shows only a portion of the scene and does not provide a clear view of the surroundings or the context of the altercation. Without more information, it's not possible to rate violence as there are no explicit depictions of injury or harm that would allow for an accurate assessment. 
+Violence Score: 0%
+
+Frame: frames/frame_120.jpg
+Description:  The image appears to be a screenshot from a video showing an outdoor scene with a person in motion captured within a still frame. The person is holding what looks like a bag and seems to be walking away from the camera's viewpoint. There are no signs of fighting, abuse, violence, or assault in the image that I can discern. The context of the actions being performed is unclear from this single frame without more information.
+
+Emotions such as fear, aggression, or danger are not detectable from a still image, as they require motion and body language to accurately interpret. Therefore, it's not possible for me to comment on emotions.
+
+As for the violence percentage, since there is no direct evidence of violence in this single frame, I would rate it as 0% based on the information provided. Without additional context or frames from the video, a meaningful assessment would be speculative and could lead to incorrect assumptions. It's important to rely on accurate descriptions when interpreting images. 
+Violence Score: 0%
+
+Frame: frames/frame_150.jpg
+Description:  The image appears to show a moment from a video surveillance camera, capturing two individuals outdoors during what seems to be daytime. One individual is lying on the ground with their arms spread out, suggesting they may have fallen or been pushed down. The other person is standing nearby, looking towards the grounded person.
+
+There are no overt signs of fighting, abuse, violence, or assault in this image. However, it could be inferred that some sort of incident involving physical contact has occurred between the two individuals. The exact nature of their interaction isn't clear from the image alone.
+
+From the image, we can see actions such as lying down and standing up. There are no signs of extreme emotion or danger that can be confidently detected from this image.
+
+As for rating violence in percentage, it would be speculative to quantify violence without additional context. The image depicts a single moment in time, and without knowing the backstory or the outcome, any assessment of violence would be purely hypothetical. 
+Violence Score: 0%
+
+Frame: frames/frame_180.jpg
+Description:  The image you've provided appears to be a still from a video, possibly taken from a CCTV camera given the quality and angle of the shot. It shows an individual lying on the ground and another person who seems to be kicking or applying force to the first person, although there is no clear indication of fighting or abuse in this particular frame.
+
+Without additional context or frames from the video, it's difficult to determine if this is a single action or part of a larger sequence involving violence or aggression. The emotions that might be associated with this situation could include fear for the person on the ground and potential danger for both individuals involved.
+
+As for rating the level of violence in this image, without more information about what led up to or followed this moment, it is not appropriate or possible for me to provide an accurate percentage. The presence of a video still can give context, but without knowing if this is a snapshot of escalating conflict, a moment of aggression without further action, or simply a non-violent situation being misinterpreted, such a rating would be speculative and potentially misleading. 
+Violence Score: 0%
+
+Frame: frames/frame_210.jpg
+Description:  The image appears to show a screenshot of a video being played on a computer screen. Within the video frame, there is no clear indication of fighting, abuse, violence, or assault. It seems to depict a peaceful scene with people who could be friends or family members engaging in an outdoor activity.
+
+In the foreground, there is a person lying down on what looks like concrete pavement, possibly taking a break or enjoying the moment. Another person is standing nearby, holding what appears to be a cup or a container that might be for drinking. There is no overt emotion of fear, aggression, or danger visible in this moment.
+
+Without more context or additional frames from the video, it's challenging to rate violence as a percentage since there is not enough information to determine if any harmful actions are occurring outside of what can be seen in this single frame. The image does not provide enough evidence to make an accurate assessment about the nature of the interaction between the individuals shown. 
+Violence Score: 0%
+
