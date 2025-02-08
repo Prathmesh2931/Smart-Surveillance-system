@@ -1,43 +1,76 @@
-Frame: frames/frame_0.jpg
-Description:  - **Violence Category:** (None)
-     - **Description:** The image shows an athlete running on a track, and they appear to be in motion and possibly racing or participating in some form of competition. There are no signs of fighting, abuse, or assault in the scene. The individual is wearing athletic gear and seems focused on their run.
-     - **Emotion Detected:** (Neutral)
-     - **Violence Score (0-100):** 0 
+Frame: 7
+Description:  Based on what I can see, it appears to be an image taken from a screen displaying a video or a photo that has been manipulated to appear as a photograph within another photo. The content visible is distorted and fragmented, making it difficult to accurately describe the scene depicted in the main part of the image.
+
+However, I can provide some observations about the overall quality of the image:
+
+- **Violence Category:** (None)
+   - Since the image is too distorted and fragmented to discern any specific details or actions that might indicate violence, it is not possible to confidently classify the image based on violence.
+
+- **Description:** What is happening in the image? Are there signs of fighting, abuse, or assault?
+   - Due to the distortion and fragmentation of the image, I cannot provide a clear description of what is happening in the scene. It does not show any signs of fighting, abuse, or assault as the content is obscured.
+
+- **Emotion Detected:** (Neutral)
+   - The lack of context and clarity in the image prevents me from detecting specific emotions. The scene appears neutral.
+
+- **Violence Score (0-100):** 0
+   - Since the image does not provide any information regarding violence, it is appropriate to assign a score of 0, indicating that there is no visible violence within this distorted and fragmented image. 
 Violence Score: 0%
 
-Frame: frames/frame_30.jpg
-Description:  Violence Category: None
+Frame: 5
+Description:  Violence Category: Mild
     
-     Description: The image depicts an athlete mid-action, jumping over a high hurdle during what appears to be an athletic competition or training session. There are no signs of fighting, abuse, or assault in the scene. The athlete's posture and facial expression suggest concentration and effort rather than fear or aggression.
+Description: The image shows a person taking a photograph from outside looking into what appears to be an interior space through a window or door. There are no signs of immediate physical harm, fighting, or other forms of abuse or assault visible in the scene. The person's expression and posture do not suggest a high level of fear or panic, but rather a moment captured as they walk by.
     
-     Emotion Detected: Neutral
+Emotion Detected: Neutral
     
-     Violence Score (0-100): 0 
+Violence Score (0-100): 0 
 Violence Score: 0%
 
-Frame: frames/frame_60.jpg
+Frame: 2
 Description:  - **Violence Category:** Mild
-     - **Description:** The image shows an athlete at a high jump event, captured mid-air above the bar. There are no signs of fighting, abuse, or assault; this is an athletic activity.
-     - **Emotion Detected:** Neutral
-     - **Violence Score (0-100):** 0 
-Violence Score: 0%
+     - **Description:** The image shows a person who appears to be in distress or pain. They are lying on the ground, with one arm raised and the other bent, suggesting they may have fallen or been hit. Their facial expression is not clear due to the angle of the shot. There are no signs of fighting or assault; it seems more like an accident or a moment of physical difficulty.
+     - **Emotion Detected:** Aggression (due to the defensive posture)
+     - **Violence Score (0-100):** 20. The violence appears to be unintentional and not severe, as there are no clear signs of physical harm or intent to cause harm. 
+Violence Score: 20%
 
-Frame: frames/frame_90.jpg
+Frame: 6
 Description:  - **Violence Category:** Mild
-     - **Description:** The image shows a person performing a gymnastics trick or stunt, possibly after a fall on a trampoline or similar apparatus. They are in an unstable position that may suggest they were doing tricks at the time of the photo. There is no clear evidence of fighting, abuse, or assault in this image.
+     - **Description:** In the image, there is a person lying on the ground, which could suggest an incident involving physical force or aggression. The context of the photo does not provide enough information to determine whether this is a fall, an assault, or some other situation. There are no signs of clear abuse or assault from the image alone.
      - **Emotion Detected:** Neutral
-     - **Violence Score (0-100):** 0 
+     - **Violence Score (0-100):** 25
+
+Please note that without additional context or information, this analysis is based solely on what can be seen in the image and does not make assumptions about the nature of the event. It is important to consider a broader range of factors when making judgments about violence, as a single frame from an image may not capture the full scope of an incident. 
+Violence Score: 25%
+
+Frame: 3
+Description:  - **Violence Category:** None
+     - **Description:** The image shows a person in motion, likely running or walking quickly. There are no signs of fighting, abuse, or assault visible in this photo.
+     - **Emotion Detected:** Neutral (based on the limited emotional cues in the image)
+     - **Violence Score (0-100):** 0
 Violence Score: 0%
 
-Frame: frames/frame_120.jpg
-Description:  Violence Category: None
-    
-     Description: The image appears to show a moment from a sports event, specifically track and field. An athlete is in the foreground with his body bent over as if he's just finished a sprint or a race and may be recovering or about to set off again. There are no signs of fighting, abuse, or assault in this image; it depicts a common scene from competitive sports where athletes are focused on their performance.
-    
-     Emotion Detected: Aggression (as the athlete is crouched and may appear intense or competitive)
-    
-     Violence Score (0-100): 0
+Frame: 4
+Description:  Based on the image provided:
 
-     Please note that this analysis is based solely on the content of the image and does not consider any context beyond what can be seen. 
-Violence Score: 0%
+     - **Violence Category:** Mild
+     - **Description:** The image shows a single person standing outside, seemingly in motion with his arms stretched out. He appears to be running or dancing rather than engaging in any form of fighting, abuse, or assault. There are no visible signs of conflict or injury within the frame.
+     - **Emotion Detected:** Aggression (the person seems to be expressing an aggressive or dynamic emotion through his body language)
+     - **Violence Score (0-100):** 10, indicating a low level of violence in the scene. 
+Violence Score: 10%
+
+Frame: 8
+Description:  - **Violence Category:** Mild
+     - **Description:** The image shows a person lying on the ground, possibly after falling or being knocked down. There is no clear evidence of fighting, abuse, or assault from this viewpoint. The person appears to be in a state of disorientation or shock, which might be related to the fall or an accident.
+     - **Emotion Detected:** Panic
+     - **Violence Score (0-100):** 30 
+Violence Score: 30%
+
+Frame: 1
+Description:  - **Violence Category:** Mild
+     - **Description:** In the image, there are two individuals who appear to be in a physical altercation. The person in black clothing is on top of the person in white clothing, suggesting they might be wrestling or fighting. There is visible contact and body language indicative of force being applied. However, it is not clear if the situation is serious or part of a sporting event like wrestling.
+     - **Emotion Detected:** Aggression
+     - **Violence Score (0-100):** 40
+
+This image shows physical contact between two people, but without more context or information on the intensity and duration of the incident, it is difficult to provide a precise percentage for the violence score. The fact that they are grappling or fighting each other indicates some level of aggression, but the degree of force being applied seems limited based on what is visible. 
+Violence Score: 40%
 
