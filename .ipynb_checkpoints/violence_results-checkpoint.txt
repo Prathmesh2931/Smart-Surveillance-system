@@ -1,0 +1,190 @@
+Frame: 1
+Description:  - **Violence Category:** Mild
+     - **Description:** The image shows a room with various objects scattered around, including what appears to be food and small items on a surface. There is no clear indication of physical violence or aggression between individuals.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
+
+Frame: 2
+Description:  Violence Category: None
+    
+     Description: The image shows an object, which appears to be a bottle with some form of liquid or substance inside it, being tilted on its side. There are no signs of fighting, abuse, or assault visible in the image. The action depicted could be considered mildly dangerous if done without care, but there is no immediate evidence of harm or intentional injury.
+    
+     Emotion Detected: Neutral
+    
+     Violence Score (0-100): 0
+    
+     This image does not depict any violence as it is focused on a mundane and non-violent activity involving a bottle. 
+Violence Score: 0%
+
+Frame: 3
+Description:  Violence Category: None
+    
+     Description: The image depicts an indoor setting with rows of chairs facing what appears to be a speaker's platform or podium. There is no visible sign of fighting, abuse, or assault in this scene. It seems to be a normal room setup, possibly for an event or meeting.
+    
+     Emotion Detected: Neutral
+    
+     Violence Score (0-100): 0 
+Violence Score: 0%
+
+Frame: 4
+Description:  Based on the image provided, I classify it as:
+
+     - **Violence Category:** (None, Mild, Moderate, Severe)
+     - **Description:** The image appears to be a selfie of an individual sitting indoors. There are no signs of fighting, abuse, or assault visible in the image. The person is holding a smartphone and looking at it with a neutral expression.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0
+
+The individual seems to be in a calm and safe environment, and there are no indications of violence or fear. The scene is mundane, showcasing a commonplace domestic setting. 
+Violence Score: 0%
+
+Frame: 5
+Description:  Based on the content of the image provided, I will categorize and analyze it:
+
+    - **Violence Category:** (None)
+    - **Description:** The image shows a person sitting at a desk with curtains behind him. There are no overt signs of fighting, abuse, or assault in this scene. The individual appears to be casually dressed and may be preparing for an event or task, given the presence of curtains and the setting that seems to be inside an office or workspace.
+    - **Emotion Detected:** (Neutral)
+    - **Violence Score (0-100):** 0
+
+The image appears to depict a non-violent scenario, likely related to work or study given the setting and attire of the person. No signs of immediate danger or conflict are apparent in this snapshot. The individual's posture and expression suggest calmness rather than aggression or distress. Therefore, based on the provided content and analysis, the image is categorized under "None" for violence and has a score of 0 out of 100. 
+Violence Score: 0%
+
+Frame: 6
+Description:  The image depicts an individual seated at a table in what appears to be an educational or conference setting. The person is looking down, with their hands resting on the table. Their facial expression suggests contemplation or concern rather than aggressive emotions. There are no visible signs of physical violence in this scene; it seems to be a peaceful environment without any conflict or harm being inflicted upon anyone present.
+
+- **Violence Category:** (None)
+- **Description:** The image shows an individual sitting at a desk, looking down and using a device with their hands. There are no signs of fighting, abuse, or assault in this scene.
+- **Emotion Detected:** (Neutral)
+- **Violence Score (0-100):** 0 (No evidence of violence or aggressive behavior.) 
+Violence Score: 0%
+
+Frame: 7
+Description:  - **Violence Category:** (None)
+     - **Description:** The image shows two individuals seated at a table with electronic devices, focusing on their work or activities. There is no immediate evidence of any form of fighting, abuse, or assault taking place in the scene. People are using cellphones and looking at something together, which suggests that they might be sharing information or collaborating on a task.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0% 
+Violence Score: 0%
+
+Frame: 8
+Description:  - **Violence Category:** (None)
+     - **Description:** The image depicts an indoor setting where several individuals are gathered around a table. There appears to be food on the table, as well as some technology equipment including what seems to be a laptop. The people are seated, and there is no overt physical violence or aggression visible in this image.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0
+
+The scene appears to be a casual social gathering rather than one indicative of violent action. The individuals present are engaged in what seems to be an activity or discussion, with no clear signs of fear or distress. The score remains at zero, as there is no visible violence occurring in the image. 
+Violence Score: 0%
+
+Frame: 9
+Description:  - **Violence Category:** (None)
+     - **Description:** The image shows an individual at a table with items like snacks, drinks, and what appears to be some form of sports event memorabilia. There is no direct indication of violence or fighting in the scene.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0
+    
+Violence Score: 0%
+
+Frame: 10
+Description:  Based on the image provided, I classify it as "Mild." The photo appears to show damage or destruction rather than an immediate act of violence. There are no signs of fighting, abuse, or assault.
+
+- **Violence Category:** Mild
+- **Description:** The image shows a blurry photograph that seems to be taken with a camera lens or perhaps through a damaged glass surface, creating an abstract effect. The quality of the photo is poor, which makes it difficult to discern specific details. However, there is clear damage visible in the frame, indicating some sort of breakage or destruction has occurred.
+- **Emotion Detected:** Neutral
+- **Violence Score (0-100):** 10
+
+The violence score is low because the image does not depict an act of violence but rather shows the aftermath of a violent event. The score would be higher if there were more definitive signs of immediate harm or aggression. 
+Violence Score: 10%
+
+Frame: 11
+Description:  - **Violence Category:** (None)
+     - **Description:** The image shows a screen displaying an application with a list of items, which appears to be related to some sort of inventory or task management system. There are no visible signs of fighting, abuse, or assault in the scene.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
+
+Frame: 12
+Description:  Violence Category: (None, Mild, Moderate, Severe)
+    
+     Description: The image appears to be a screenshot from a mobile device displaying a list of files, showing file names that include "file" and "folder" with some numbers. There is no violence being depicted in the image; it seems to be an ordinary screenshot of a smartphone interface.
+
+     Emotion Detected: (Neutral)
+    
+     Violence Score (0-100): 0 
+Violence Score: 0%
+
+Frame: 13
+Description:  - Violence Category: None
+     - Description: The image shows a close-up view of a laptop with a sticker on it. The sticker has an expiration date and is affixed at an angle, giving the impression that the laptop is being used or repaired. There are no signs of fighting, abuse, or assault in this image.
+     - Emotion Detected: Neutral
+     - Violence Score (0-100): 0 
+Violence Score: 0%
+
+Frame: 14
+Description:  Based on the image provided, I do not see any signs of fighting, abuse, or assault. The image appears to be a close-up view of a laptop with a label and some debris attached to it. There is no evidence of violence visible in this image.
+
+For the emotion detected, there's nothing that immediately suggests fear, aggression, or panic, so I would classify it as neutral. The violence score based on the visible content in the image is 0 out of a potential 100 for severity of violence, indicating no signs of physical harm or conflict.
+
+- **Violence Category:** (None)
+- **Description:** A close-up image showing a laptop with a label and debris attached to it.
+- **Emotion Detected:** Neutral
+- **Violence Score (0-100):** 0
+
+This analysis is based on the visible content of the image and does not account for any potential context or hidden elements that may be present but are not visible in this particular view. 
+Violence Score: 0%
+
+Frame: 15
+Description:  - **Violence Category:** (None)
+     - **Description:** There is no direct evidence of violence in this image. It shows a person with their hand over a laptop screen, which could suggest a protective or controlling gesture, but it does not depict any aggressive actions or visible harm. The presence of the individual and laptop obscures the view of any objects that might indicate a violent situation.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
+
+Frame: 16
+Description:  - **Violence Category:** None
+     - **Description:** The image shows a room with a wall that appears to have peeling paint or a similar texture, but it is not clear what is actually happening on the wall itself. There are no signs of fighting, abuse, or assault visible in this image based on the information provided.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0
+Violence Score: 0%
+
+Frame: 17
+Description:  Violence Category: None
+Description: The image is blurred and does not show any signs of fighting, abuse, or assault. It appears to be an out-of-focus shot of a room or interior space.
+Emotion Detected: Neutral
+Violence Score (0-100): 0 
+Violence Score: 0%
+
+Frame: 18
+Description:  - **Violence Category:** (None)
+     - **Description:** The image appears to be an interior view with a white wall and some sort of object in the foreground. There is no clear indication of any violent activity, such as fighting, abuse, or assault. The image looks quite ordinary and neutral.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0
+Violence Score: 0%
+
+Frame: 19
+Description:  - Violence Category: None
+     - Description: The image appears to be taken from an aerial or bird's eye view, showing a surface with what looks like a slight reflection or glare. There are no signs of fighting, abuse, or assault in the image; it seems to be an ordinary photograph with no indications of violence.
+     - Emotion Detected: Neutral
+     - Violence Score (0-100): 0 
+Violence Score: 0%
+
+Frame: 20
+Description:  Based on the image provided, I classify it as "None." There is no clear evidence of violence or any disturbing elements visible in this image. It appears to be a plain, unadorned wall without any signs of conflict or distress. The emotions that could be detected are neutral or calm. No violence score is applicable since there is no sign of violence in the scene. 
+Violence Score: 0%
+
+Frame: 21
+Description:  - **Violence Category:** (None)
+     - **Description:** The image appears to show an empty room with a wall that has several horizontal bars or slits, possibly part of window blinds or a decorative element. There are no signs of fighting, abuse, or assault in this scene. The photo is taken from a low angle looking up, which gives the viewer a different perspective on the wall structure.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0
+
+The image does not depict any violence or harmful activities; it is simply an indoor space with vertical blinds or slats covering a window area, which is a common design feature. There is no indication of fear, aggression, panic, or any other strong emotion in the scene. The rating for violence score remains at 0 as there are no aggressive or violent actions taking place in this image. 
+Violence Score: 0%
+
+Frame: 22
+Description:  Violence Category: (None)
+
+Description: The image shows a blurry, close-up view of a surface that appears to be a shower curtain or a similar fabric with a striped pattern. There are no signs of fighting, abuse, or assault evident in the image.
+
+Emotion Detected: Neutral
+
+Violence Score (0-100): 0 
+Violence Score: 0%
+
