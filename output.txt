@@ -1,66 +1,43 @@
 Frame: frames/frame_0.jpg
-Description:  Violence Category: Mild
-    
-     Description: The image shows two individuals engaged in what appears to be a physical confrontation. One person is on the ground with their arms around another individual who seems to be standing and exerting some force against them. There are no visible signs of severe injury or intense aggression, but there is clear evidence of physical contact that could cause harm or discomfort.
-    
-     Emotion Detected: Aggression
-    
-     Violence Score (0-100): 35% 
-Violence Score: 35%
+Description:  - **Violence Category:** (None)
+     - **Description:** The image shows an athlete running on a track, and they appear to be in motion and possibly racing or participating in some form of competition. There are no signs of fighting, abuse, or assault in the scene. The individual is wearing athletic gear and seems focused on their run.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
 
 Frame: frames/frame_30.jpg
-Description:  - **Violence Category:** Moderate
-     - **Description:** The image appears to capture a moment of physical altercation, potentially a fight or confrontation. There is visible aggression and the context suggests physical contact has taken place, which is indicative of a violent act in progress.
-     - **Emotion Detected:** Aggression
-     - **Violence Score (0-100):** 50 
+Description:  Violence Category: None
+    
+     Description: The image depicts an athlete mid-action, jumping over a high hurdle during what appears to be an athletic competition or training session. There are no signs of fighting, abuse, or assault in the scene. The athlete's posture and facial expression suggest concentration and effort rather than fear or aggression.
+    
+     Emotion Detected: Neutral
+    
+     Violence Score (0-100): 0 
 Violence Score: 0%
 
 Frame: frames/frame_60.jpg
-Description:  Violence Category: Mild
-Description: In the image, there is an altercation occurring between two individuals. One person is captured in motion, either running or possibly fighting, while another individual appears to be standing nearby, possibly as a bystander or an observer. There are no clear signs of extreme physical harm or aggression visible in this snapshot.
-
-Emotion Detected: Aggression (as evidenced by the motion and the context of the scene)
-Violence Score (0-100): 30, based on the immediate actions observed in the photo, which include an aggressive posture and movement from one person. However, this score is an estimation and may not fully capture the dynamic nature of a real-time altercation. 
-Violence Score: 30%
+Description:  - **Violence Category:** Mild
+     - **Description:** The image shows an athlete at a high jump event, captured mid-air above the bar. There are no signs of fighting, abuse, or assault; this is an athletic activity.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
 
 Frame: frames/frame_90.jpg
 Description:  - **Violence Category:** Mild
-     - **Description:** The image shows two individuals engaged in what appears to be an altercation or fight. There are signs of physical contact, such as one person pushing or shoving another person, which could imply a verbal disagreement escalating into a physical confrontation. There is no clear evidence of extreme force or severe injury that would classify the situation as moderate or severe.
-     - **Emotion Detected:** Aggression
-     - **Violence Score (0-100):** 30
+     - **Description:** The image shows a person performing a gymnastics trick or stunt, possibly after a fall on a trampoline or similar apparatus. They are in an unstable position that may suggest they were doing tricks at the time of the photo. There is no clear evidence of fighting, abuse, or assault in this image.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0 
 Violence Score: 0%
 
 Frame: frames/frame_120.jpg
-Description:  - **Violence Category:** Mild
-     - **Description:** The image appears to show a person walking on a sidewalk or street, and there is no overt sign of fighting, abuse, or assault. It seems like an everyday moment captured from a security camera or social media post.
-     - **Emotion Detected:** Neutral
-     - **Violence Score (0-100):** 0
+Description:  Violence Category: None
+    
+     Description: The image appears to show a moment from a sports event, specifically track and field. An athlete is in the foreground with his body bent over as if he's just finished a sprint or a race and may be recovering or about to set off again. There are no signs of fighting, abuse, or assault in this image; it depicts a common scene from competitive sports where athletes are focused on their performance.
+    
+     Emotion Detected: Aggression (as the athlete is crouched and may appear intense or competitive)
+    
+     Violence Score (0-100): 0
 
-Please note that this assessment is based solely on the available visual information and does not include any audio context that might provide additional clues regarding the situation. The image as presented does not contain any signs of severe or moderate violence, nor does it depict fear, aggression, or panic from an individual's expression or body language. 
+     Please note that this analysis is based solely on the content of the image and does not consider any context beyond what can be seen. 
 Violence Score: 0%
-
-Frame: frames/frame_150.jpg
-Description:  - **Violence Category:** Mild
-     - **Description:** The image appears to show two individuals engaged in a physical altercation, with one person actively striking another. This could be indicative of a fight or confrontation between the two parties. There are no obvious signs of severe harm or weapons in the scene, and there is no indication of abuse or assault.
-     - **Emotion Detected:** Aggression (as the individual in the foreground is actively fighting)
-     - **Violence Score (0-100):** 35
-         The score is based on the intensity of the physical contact, with the number representing a low to high scale of violence. This score suggests a fairly intense but not life-threatening confrontation. It's important to note that without context or additional information, this assessment is limited to what is immediately visible in the image and may not fully capture the scope or circumstances of the situation. 
-Violence Score: 0%
-
-Frame: frames/frame_180.jpg
-Description:  - **Violence Category:** Moderate
-     - **Description:** The image shows two individuals outside during the daytime. One individual appears to be engaged in an altercation, possibly involving pushing or shoving, as they are leaning into each other with physical contact. It seems like a heated confrontation is occurring. There's no clear indication of fighting, abuse, or assault that would classify this image as severe violence.
-     - **Emotion Detected:** Aggression (as the individuals seem to be actively involved in the conflict)
-     - **Violence Score (0-100):** 50, indicating a moderately violent scene due to the physical contact and the intensity of their confrontation. 
-Violence Score: 0%
-
-Frame: frames/frame_210.jpg
-Description:  Violence Category: Mild
-
-Description: In the image, there is an individual who appears to be lying on the ground and is surrounded by what looks like police officers or security personnel. The person seems to be detained or restrained, with their arms behind them and hands tied together. There are no obvious signs of fighting, abuse, or assault.
-
-Emotion Detected: Neutral
-
-Violence Score (0-100): 20 - The scene depicts a situation that is being controlled by authorities, indicating a level of authority over the person in question. The emotions detected in the image would likely be related to the individual's detainment rather than violence towards them. 
-Violence Score: 20%
 
