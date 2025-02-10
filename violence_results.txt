@@ -188,3 +188,505 @@ Emotion Detected: Neutral
 Violence Score (0-100): 0 
 Violence Score: 0%
 
+Frame: 1
+Description:  Based on the image provided, I do not detect any signs of physical or emotional violence. The individuals present appear to be engaged in work on computers. There are no indications of abuse, aggression, or any other form of violence. As for emotion detection, it is neutral, as people seem to be focused on their tasks.
+
+Therefore, the Violence Category should be: (None)
+
+Description: People are seated at desks with computers in front of them, suggesting an office or classroom setting. There is no overt sign of violence or conflict.
+
+Emotion Detected: Neutral
+
+Violence Score (0-100): 0 
+Violence Score: 0%
+
+Frame: 2
+Description:  Based on what I can see in this image, there is no direct evidence of violence occurring at the moment. However, there is a laptop and some papers or notebooks scattered around, which could suggest recent activity or work that might involve conflict or disagreement. There is also a cell phone nearby, but it's not clear if it was involved in any incident.
+
+     - **Violence Category:** (None)
+     - **Description:** The image appears to be of a workspace with various items on a desk. It looks like a typical office or study area. There are no signs of fighting, abuse, or assault visible.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0
+
+The environment seems to be peaceful and orderly at the moment it was captured. The presence of a pen lying on its side could suggest some activity or work took place, but without additional context, it's difficult to determine if that relates to any violent incident. 
+Violence Score: 0%
+
+Frame: 3
+Description:  Based on the image you provided, I'll analyze and classify it based on your request:
+
+    - **Violence Category:** (None)
+    
+    - **Description:** The image shows a laptop screen displaying another laptop screen showing a picture of a person. The surrounding environment includes various items such as a whiteboard with numbers written on it, office supplies like pens and paper clips, and what appears to be a balloon or decoration on the desk. There are no signs of fighting, abuse, or assault in this image.
+    
+    - **Emotion Detected:** (Neutral)
+    
+    - **Violence Score (0-100):** 0. The image does not contain any overt violent actions or expressions. It's a regular office setting with no signs of aggression or fear.
+
+This assessment is based on the content visible in the image and considers the context given by your request. If there are any subtler aspects of violence that may be present, they would not be detected due to the limitations of analyzing static images without additional information. 
+Violence Score: 0%
+
+Frame: 4
+Description:  - **Violence Category:** Mild
+     - **Description:** The image shows a messy desk with various items on it, including a clipboard with papers and pens, which suggests someone might have been working or studying there. There is no visible violence, such as fighting, abuse, or assault, in the scene. The environment appears to be disorganized rather than indicative of any violent action.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0% 
+Violence Score: 0%
+
+Frame: 5
+Description:  I'm unable to perceive emotions as an AI, but I can analyze the image and classify it based on violence:
+
+    - **Violence Category:** (None)
+    - **Description:** The image shows a pile of papers on a desk with a person in the background. There are no signs of fighting, abuse, or assault visible in this image. It appears to be a common office setting with some papers and a pen on top.
+    - **Emotion Detected:** (Neutral)
+    - **Violence Score (0-100):** 0%
+Violence Score: 0%
+
+Frame: 6
+Description:  Based on the image provided, no overt signs of violence are apparent. It appears to be a standard office or classroom setting with papers and folders present on a table. There is a person sitting at the desk, but their actions do not indicate any aggressive behavior. The environment seems calm and orderly, with typical workplace items like a laptop and computer mouse visible.
+
+- **Violence Category:** (None)
+- **Description:** The image depicts a room with various office supplies on a table, with a person sitting in front of it. There are no signs of fighting or abuse visible in the image. The scene is neutral and does not evoke any strong emotional response that would suggest violence.
+- **Emotion Detected:** (Neutral)
+- **Violence Score (0-100):** 0
+
+Please note that this classification is based on the information available within the provided image, and additional context or details may lead to a different conclusion about the presence of violence. 
+Violence Score: 0%
+
+Frame: 7
+Description:  - **Violence Category:** Mild
+     - **Description:** The image shows an indoor setting with various items scattered around, such as papers and what appears to be a small electronic device. There is no clear sign of fighting, abuse, or assault evident in the image.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
+
+Frame: 8
+Description:  Violence Category: Mild
+
+Description: In the image, it appears to be an interior space, possibly a classroom or hall, with several individuals present. There is no direct evidence of physical violence such as fighting or assault occurring at this moment. Instead, one person seems to be standing and gesturing while another individual sits nearby. Both people appear to be engaged in conversation or some form of interaction. The surroundings include a table, chairs, and the presence of backpacks or bags on the floor.
+
+Emotion Detected: Neutral
+
+Violence Score (0-100): 0
+
+The scene does not show any signs of violence or aggressive behavior. It seems to be a normal interaction between individuals in a public or educational space. 
+Violence Score: 0%
+
+Frame: 9
+Description:  - **Violence Category:** (None)
+     - **Description:** The image shows an indoor setting that appears to be a meeting room or lobby area within what seems to be a public building, possibly an office or government facility. There are no visible signs of fighting, abuse, or assault. People in the room seem to be engaged in conversation or working on their laptops at individual tables. The atmosphere is neutral and orderly.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0 - There is no evidence of violence in the image. The people present are simply engaging with each other or their work in a normal setting. 
+Violence Score: 0%
+
+Frame: 10
+Description:  - **Violence Category:** None
+     - **Description:** The image shows an indoor setting that appears to be a cafeteria or break room within a commercial or institutional building, possibly an office, school, or hospital. People are present in the room; some are standing, and others appear to be seated at tables with chairs. There is no obvious sign of fighting, abuse, or assault taking place.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
+
+Frame: 11
+Description:  - **Violence Category:** (None)
+     - **Description:** In this image, there is no overt sign of physical violence or aggression. The people in the scene appear to be seated calmly at desks with chairs. There are books and a computer visible on the table, suggesting that this could be an educational setting. The image does not depict any fighting, abuse, or assault.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** Based on the information available in this image, there is no evidence to suggest a violence score of 0-100 as the scene is peaceful and calm. 
+Violence Score: 0%
+
+Frame: 12
+Description:      - **Violence Category:** (None)
+     - **Description:** The image shows two people standing near each other, likely in a hallway or a room with chairs and a handrail. There are no visible signs of fighting, abuse, or assault. Both individuals appear to be dressed formally, with one person wearing a suit and the other in more casual attire. Their posture is neutral, and they seem to be engaged in conversation or observing something.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0, as there are no indicators of violence in the image. The scene is peaceful and does not depict any form of aggression or harm. 
+Violence Score: 0%
+
+Frame: 13
+Description:  - **Violence Category:** (None)
+     - **Description:** The image shows a person's legs and feet, and it appears to be taken from an elevated angle—perhaps from the waist up of a person standing behind a table or similar structure. There are no visible signs of fighting, abuse, or assault in this image.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0
+
+The image provided does not show any violent actions or scenes that would justify a categorization under violence. It seems to be an ordinary photograph, possibly taken in a casual or work environment. 
+Violence Score: 0%
+
+Frame: 14
+Description:      - **Violence Category:** Mild
+     - **Description:** In the image provided, we see a person sitting at a table with their feet resting on the table. There are no signs of fighting, abuse, or assault evident in this scene. The individual appears to be at ease, and there is no indication of harm or conflict.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0
+
+The image does not depict any violent actions or indicators of a threatening situation. It seems to be a typical, everyday scene that does not fall into the category of violence. The presence of a wired cord next to the person's foot could be interpreted as potentially unsafe if not handled properly, but it is not inherently violent in this context. 
+Violence Score: 0%
+
+Frame: 1
+Description:  - **Violence Category:** Mild
+     - **Description:** The image shows a surface with a small hole, which appears to be the result of an impact or puncture. There are no signs of fighting, abuse, or assault that can be observed in this image.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
+
+Frame: 2
+Description:  - **Violence Category:** (None)
+     - **Description:** The image shows a person sitting at a desk, presumably working or engaged in some activity on a computer. There are no signs of fighting, abuse, or assault visible in this image.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0%
+
+The scene depicted is calm and does not exhibit any form of violence. The person appears to be focused on their work. 
+Violence Score: 0%
+
+Frame: 3
+Description:  Violence Category: None
+    
+     Description: The image shows an interior space that appears to be a waiting area or room, possibly within a building like an airport or a public institution, given the presence of chairs and what seems to be a table with some items on it. There is one individual in the foreground who appears to be seated, perhaps in isolation, as they are not interacting with other people present in the image. The environment suggests that this is a controlled setting for some reason, but there is no sign of violence or conflict between individuals. Everyone seems calm and undisturbed by each other's presence.
+    
+     Emotion Detected: Neutral
+    
+     Violence Score (0-100): 0% 
+Violence Score: 0%
+
+Frame: 4
+Description:  - **Violence Category:** (None, Mild)
+     - **Description:** In the image, there is a person sitting down indoors. The individual appears to be looking at the camera with an expression that may suggest concern or worry. There are no signs of physical violence, fighting, abuse, or assault visible in this image.
+     - **Emotion Detected:** (Worry, Concern)
+     - **Violence Score (0-100):** Based on the available information and the absence of any overtly violent elements, a score of 0 for violence would be appropriate. 
+Violence Score: 0%
+
+Frame: 5
+Description:  Violence Category: Mild
+    
+     Description: The image shows a person who appears to be in a state of distress or sadness, with some signs of being upset or agitated. There are no visible signs of physical fighting, abuse, or assault in the image.
+    
+     Emotion Detected: Neutral (with subtle elements that could suggest sadness or frustration)
+    
+     Violence Score (0-100): 0
+     
+The person in the image is seated, and there's a room with what seems to be a dining table and chairs in the background. The facial expression on the man's face may indicate some level of emotional distress or concern, but it does not depict physical violence. 
+Violence Score: 0%
+
+Frame: 6
+Description:  - **Violence Category:** (None, Mild, Moderate, Severe)
+     - **Description:** The image appears to be a person sitting alone, possibly inside a room with a fan and curtains. There is no sign of physical fighting or assault, and the individual seems calm.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0
+
+This image shows a person sitting alone in what appears to be a domestic setting. There are no overt signs of violence or aggression. The environment suggests a quiet, undisturbed atmosphere. The individual seems relaxed and at ease. 
+Violence Score: 0%
+
+Frame: 7
+Description:  - **Violence Category:** (None)
+     - **Description:** The image shows a person taking a selfie, likely in a public space. There are no visible signs of fighting, abuse, or assault in this image. It appears to be a regular photograph of an individual using a smartphone.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
+
+Frame: 1
+Description:  - **Violence Category:** None
+     - **Description:** The image shows a person seated at a table with a laptop, writing or working on something. There is no clear evidence of physical fighting, abuse, or assault occurring in this particular snapshot. The person appears to be engaged in their work and there are no signs of distress or agitation.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0%
+
+Please note that the assessment is based on the visible content within this single image, and a full analysis would require additional context or frames to accurately assess any potential violence. 
+Violence Score: 0%
+
+Frame: 2
+Description:  Based on the image provided, I will classify it based on the given format:
+
+    - **Violence Category:** None
+    - **Description:** The image shows a man sitting alone at a desk, presumably in a classroom setting. He appears to be focused on something on his cell phone, which he is holding in one hand and placing near his mouth with the other. There are no signs of fighting, abuse, or assault visible in this image. The environment looks calm and orderly.
+    - **Emotion Detected:** Neutral
+    - **Violence Score (0-100):** 0%
+
+The man's posture and expression suggest a state of concentration rather than fear, aggression, or panic. There are no indicators of violence in this image. 
+Violence Score: 0%
+
+Frame: 3
+Description:  - **Violence Category:** (None)
+     - **Description:** The image shows a person taking a selfie in what appears to be an indoor setting, possibly a cafeteria or dining hall. There is no direct evidence of violence or conflict visible in the image. No signs of fighting, abuse, or assault are apparent; everyone seems calm and undisturbed.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** Based on the available information, I would assign a violence score of 0 since there is no indication of violence in this scene. 
+Violence Score: 0%
+
+Frame: 4
+Description:  - **Violence Category:** (None)
+     - **Description:** The image shows an indoor setting with a mirror reflecting a bathroom, indicating that someone is taking a picture from outside the room. There are no visible signs of fighting, abuse, or assault in the scene. The objects are stationary and there is no indication of immediate danger or harm.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
+
+Frame: 5
+Description:  Based on the image provided, there is no visible immediate threat or signs of physical harm in this particular instance. The person appears to be indoors with no obvious signs of distress or danger. Therefore, I would classify this image as "None," as there is no overt violence evident.
+
+The individual seems to be observing something on a surface in front of them, perhaps taking a photo or just looking at it. The person's expression and posture do not indicate fear, aggression, panic, or any other emotion that would suggest immediate danger or distress.
+
+There is no definitive way to measure violence as a percentage based solely on an image. However, the absence of clear signs of violence in this photo suggests it is a low-violence scenario. 
+Violence Score: 0%
+
+Frame: 6
+Description:  Based on the image provided, I classify it as:
+
+    - **Violence Category:** None
+    - **Description:** The image depicts an open laptop computer with its screen facing upwards and a keyboard with various keys. There are no signs of fighting, abuse, or assault in this image. It appears to be a neutral scene without any violent elements.
+    - **Emotion Detected:** Neutral
+    - **Violence Score (0-100):** 0
+Violence Score: 0%
+
+Frame: 7
+Description:  - **Violence Category:** (None)
+     - **Description:** The image shows an open laptop computer with its keyboard and screen facing upwards. There is no evidence of fighting, abuse, or assault within this image.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0% 
+Violence Score: 0%
+
+Frame: 8
+Description:  - **Violence Category:** (None, Mild, Moderate, Severe)
+        The image shows a laptop with a sticker on it, and there are no signs of fighting, abuse, or assault visible in this image. It is not possible to make any assumptions about the emotional state of the person who took the photo or if there was any violence prior to or subsequent to the moment captured.
+        - **Description:** The laptop is sitting on a table with some clutter around it. There are no signs of physical damage or interaction that would suggest violence. It's just an everyday scene with a personal electronic device.
+        - **Emotion Detected:** Neutral (There is nothing in the image that suggests any emotion is being displayed, nor can we make an assumption about the emotional state of the person who took the photo.)
+        - **Violence Score (0-100):** 0 (Given the absence of violence or distressing elements, this score would be appropriate for the content shown in the image.) 
+Violence Score: 0%
+
+Frame: 9
+Description:  - **Violence Category:** Mild
+     - **Description:** The image shows an open book or notebook, with pages that appear to be filled out. However, without specific details about what's written or visible on the pages, it is not possible to determine any signs of fighting, abuse, or assault. It simply looks like a book sitting on a surface.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
+
+Frame: 1
+Description:  Based on the image provided, there are no signs of fighting, abuse, or assault evident. The two individuals in the image appear to be engaged in a collaborative activity at a table with computers and laptops. They seem focused on their tasks and do not display any aggressive behavior. Therefore, the violence category would be "None."
+
+The emotions detected from the image are "Neutral" as there are no clear indicators of fear or panic. The violence score (0-100) would be 0 because there is no evidence of any type of violence in this scene. It depicts a peaceful and cooperative environment, likely within an educational setting such as a library or study area. 
+Violence Score: 0%
+
+Frame: 2
+Description:  Violence Category: None
+
+Description: The image shows an interior room with an empty desk to one side and a wall with a broken tile above it. There are no signs of physical fighting, abuse, or assault evident in this image. It appears to be a neutral setting, possibly a classroom or office space, currently unoccupied.
+
+Emotion Detected: Neutral
+
+Violence Score (0-100): 0
+Violence Score: 0%
+
+Frame: 3
+Description:  - **Violence Category:** Mild
+     - **Description:** The image shows an interior space that appears to be a school or educational institution, possibly after hours, given the absence of students. There is no clear evidence of fighting, abuse, or assault taking place in this setting. The environment looks ordinary and there are no signs of aggression or distress.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0% - This scene does not depict any violent act or suggestive behavior that would warrant a violence score. The image is simply an interior space without any signs of immediate danger or distress. 
+Violence Score: 0%
+
+Frame: 4
+Description:  - **Violence Category:** None
+     - **Description:** The image appears to show an interior space with a whiteboard and some text that is not clearly legible. There are no visible signs of fighting, abuse, or assault in this image.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0
+     
+Violence Score: 0%
+
+Frame: 5
+Description:  Violence Category: None
+    
+     Description: The image depicts an interior wall with a visible crack and some peeling paint, suggesting age or neglect. There are no signs of fighting, abuse, or assault visible in this image. It appears to be a simple, unadorned space, possibly a classroom or public building, with a desk and a chair, which is not indicative of violence.
+    
+     Emotion Detected: Neutral
+    
+     Violence Score (0-100): 0 
+Violence Score: 0%
+
+Frame: 6
+Description:  - **Violence Category:** Mild
+     - **Description:** The image shows a person, but it is blurry and rotated, which makes it difficult to discern any specific actions or details that would indicate violence. There is no clear evidence of fighting, abuse, or assault.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0 since there are no visible signs of violence in this image. 
+Violence Score: 0%
+
+Frame: 7
+Description:  Based on the image provided, there are no clear indications of violence or aggressive behavior. The individual in the image appears to be seated and is facing away from the camera, so it is difficult to determine their emotions accurately. However, since there are no visible signs of physical harm, distress, or confrontation, a violence score would be 0.
+
+     - **Violence Category:** (None)
+     - **Description:** The image shows an interior space with a person sitting at a table and facing away from the camera. There is no direct evidence of fighting, abuse, or assault in this image.
+     - **Emotion Detected:** Neutral (based on the available information)
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
+
+Frame: 8
+Description:  - **Violence Category:** (None)
+     - **Description:** There is no obvious sign of fighting, abuse, or assault in this image. It shows an individual standing next to a wall with what appears to be some sort of damage or marking on it. The scene seems neutral and does not depict any aggressive actions.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
+
+Frame: 9
+Description:  - **Violence Category:** None
+     - **Description:** The image shows a man standing by what appears to be a whiteboard or wall with some stains on it, possibly indicating that something has been spilled there. There is no sign of fighting, abuse, or assault in the image.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0
+
+This image does not depict any violence or aggressive behavior. It seems to be a simple, everyday scene with no signs of harm or conflict. 
+Violence Score: 0%
+
+Frame: 10
+Description:  - **Violence Category:** None
+     - **Description:** The image shows an interior space that appears to be in disarray. There are no signs of fighting, abuse, or assault visible in this image.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0% based on the content shown in the image. The scene depicted does not demonstrate any level of violence. It seems to be a disorganized space, possibly an indoor area such as a garage or storage room, but there is no direct evidence of violence or harm present in the photograph. 
+Violence Score: 0%
+
+Frame: 11
+Description:  Based on the image provided, there appears to be no clear evidence of physical violence or aggression. The image is blurry and taken at an angle that obscures any possible signs of conflict or distress. There's not enough detail visible to confidently assess the situation in terms of violence. Thus, the output would be:
+
+     - **Violence Category:** (None)
+     - **Description:** The image is too blurry and taken from a perspective that does not allow for a clear view of what is happening. There are no obvious signs of fighting, abuse, or assault.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0
+
+Please note that due to the low quality and ambiguous nature of this image, any assessment of violence is highly speculative and should not be used as evidence in any legal or investigative context. 
+Violence Score: 0%
+
+Frame: 12
+Description:  Violence Category: None
+    
+     Description: The image shows a person's hand holding a black object with a spiral design near it, which could be interpreted as some form of rope or wire wrapped around something. There is no overt violence or signs of fighting, abuse, or assault visible in the scene.
+    
+     Emotion Detected: Neutral
+    
+     Violence Score (0-100): 0 
+Violence Score: 0%
+
+Frame: 13
+Description:  - **Violence Category:** (None)
+     - **Description:** The image shows an indoor setting, specifically what appears to be a kitchen or a room with a tiled floor and various objects scattered around, including cables and other items. There is no direct evidence of fighting, abuse, or assault. The scene seems to depict a disorganized space rather than one characterized by violence.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0
+
+The image is blurry and lacks clear details, making it difficult to confidently interpret any specific events or emotions that may be present in the scene. The assessment of this image for violence is based on the lack of evidence and the overall impression of a disarrayed space rather than one of conflict or aggression. 
+Violence Score: 0%
+
+Frame: 14
+Description:  - **Violence Category:** None
+     - **Description:** The image shows an indoor setting with a person's lower body partially visible, sitting near some wires on the ground and what appears to be a piece of machinery or equipment to the right. There are no signs of fighting, abuse, or assault in this image.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0
+
+The scene depicted is neither violent nor showing any distressing emotions. It looks like a casual or working environment with no immediate signs of harm or conflict. 
+Violence Score: 0%
+
+Frame: 15
+Description:  - **Violence Category:** Mild
+     - **Description:** The image shows two separate frames that appear to be from different videos or images, with a dark and possibly ominous background. There are no clear signs of fighting, abuse, or assault in this particular section; it looks more like a plain black screen or possibly a close-up of something obscured by the darkness.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0% 
+Violence Score: 0%
+
+Frame: 16
+Description:  - **Violence Category:** Mild
+     - **Description:** In the image, there is a physical interaction between two individuals seated at a table. The man standing appears to be touching or patting the shoulder of the person sitting down. It does not seem to involve any aggressive or forceful actions, but rather an informal gesture that might be interpreted as friendly or supportive by some.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0. The interaction in the image is a far cry from severe violence and does not even reach the threshold of mild violence, given that it appears to be more of a casual or friendly gesture than an act of aggression or abuse. 
+Violence Score: 0%
+
+Frame: 17
+Description:  - **Violence Category:** (None)
+     - **Description:** The image depicts two individuals sitting at desks with computer equipment, such as keyboards and mice. There is no visible sign of fighting, abuse, or assault in this scene.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0
+
+Based on the image provided, there is no violence depicted. The individuals appear to be engaged in a normal, non-violent activity, likely working or studying at their computers. 
+Violence Score: 0%
+
+Frame: 18
+Description:  Violence Category: Mild
+
+Description: In the image, there are two men seated at a table or desk in an indoor setting that appears to be a classroom or study room. The man on the right is looking down at something on the desk, while the other man is gesturing with his hand near the camera. There are no visible signs of fighting, abuse, or assault in this image. The individuals appear to be engaged in a discussion or work task rather than any violent activity.
+
+Emotion Detected: Neutral
+
+Violence Score (0-100): 0%
+
+The image does not depict any violence or harmful actions. It seems to show a typical learning or work environment without any immediate signs of aggression or conflict. 
+Violence Score: 0%
+
+Frame: 19
+Description:  - **Violence Category:** (None)
+     - **Description:** There is no visible evidence of fighting, abuse, or assault in this image. It shows a person using a computer with another individual present behind them. The focus is on their hands interacting with the screen.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0 
+Violence Score: 0%
+
+Frame: 20
+Description:  - **Violence Category:** None
+     - **Description:** The image shows a person using a computer or mobile device, with their hands on the keyboard or touchscreen. There are no visible signs of fighting, abuse, or assault.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0
+
+The image depicts an everyday scene of a person working or using a device, and it does not show any violent actions or expressions. 
+Violence Score: 0%
+
+Frame: 21
+Description:  - **Violence Category:** None
+     - **Description:** The image shows a person seated at a table, looking down and using a cell phone. There are no signs of fighting, abuse, or assault visible in this image.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0
+
+The scene appears to be quite peaceful and ordinary, with no indicators of violence or conflict. 
+Violence Score: 0%
+
+Frame: 22
+Description:  - Violence Category: None
+     - Description: The image shows an interior corridor, likely within a school or institutional setting. There is nothing inherently violent in the image; it appears to be a mundane or neutral scene with no signs of fighting, abuse, or assault. The environment looks calm and orderly.
+     - Emotion Detected: Neutral
+     - Violence Score (0-100): 0
+Violence Score: 0%
+
+Frame: 1
+Description:  Violence Category: Mild
+
+Description: In the image, there is a group of people inside what appears to be an educational or academic setting, likely a classroom or lecture hall. Two individuals appear to be involved in a discussion or activity, with one person seemingly showing something to another. The environment seems calm and orderly, without any signs of aggressive behavior or conflict visible within the image.
+
+Emotion Detected: Neutral
+
+Violence Score (0-100): 0 
+Violence Score: 0%
+
+Frame: 2
+Description:  Based on the image provided:
+
+    - **Violence Category:** (Mild)
+    - **Description:** The image depicts a classroom setting where a man is speaking or presenting to an audience, which appears to include at least two attendees actively engaged in the discussion. There are no signs of physical fighting, abuse, or assault visible in this image. The atmosphere seems calm and educational rather than violent.
+    - **Emotion Detected:** (Neutral)
+    - **Violence Score (0-100):** 0
+
+Please note that the assessment is based on a single frame of the image and might not capture the entire context or sequence of events taking place in the scene. Additionally, the absence of visible violence does not necessarily mean that there is no potential for conflict or tension within the image. The score provided here reflects the immediate visual content without accounting for any implied or unseen actions. 
+Violence Score: 0%
+
+Frame: 3
+Description:  - **Violence Category:** (None)
+     - **Description:** The image shows two individuals sitting at desks in what appears to be an educational setting, possibly a classroom or a similar institutional room. One person seems to be reading a document or using a laptop on the desk, while the other is leaning over and looking at them. There are no visible signs of physical fighting, abuse, or assault in this image. The individuals' body language suggests a calm and focused environment rather than aggressive behavior.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0% - There is no indication of violence or threat to safety in the scene depicted. 
+Violence Score: 0%
+
+Frame: 4
+Description:  - **Violence Category:** (None, Mild, Moderate, Severe)
+     - **Description:** The image appears to show an indoor setting with a group of people sitting around tables. In the foreground, one man is looking at a piece of paper or writing instrument while another person seems to be observing him. There are no signs of fighting, abuse, or assault visible in this particular image. Everyone present appears to be engaged in a discussion or task that requires attention to detail, rather than any overtly aggressive behavior.
+     - **Emotion Detected:** (Neutral)
+     - **Violence Score (0-100):** 0. No violent activity can be confidently identified in this image. The individuals are engaged in what appears to be a calm discussion or examination of some documents. 
+Violence Score: 0%
+
+Frame: 5
+Description:  Based on the visible content in this image, I will classify it under "Mild" for violence as no physical harm is evident and no aggressive behavior indicative of high levels of tension or aggression can be observed.
+
+- **Violence Category:** Mild
+   - **Description:** A group of people appears to be engaged in a discussion or negotiation, possibly within an educational setting such as a classroom or lecture hall. There is no visible evidence of physical harm or aggressive behavior among the individuals present.
+   - **Emotion Detected:** Neutral
+   - **Violence Score (0-100):** 10
+
+Please note that this classification is based on the content visible in the image and does not take into account any context, background information, or actions outside of what is immediately apparent. Any assessment of emotion should be made with caution, as it requires considering the broader context which may not be fully evident from a single still image. 
+Violence Score: 10%
+
+Frame: 6
+Description:  - **Violence Category:** None
+     - **Description:** The image depicts an indoor setting, possibly a classroom or a meeting room, with several people present. One individual appears to be making a point or explaining something to others seated around them. There is no visible physical harm being inflicted upon the individuals shown in the picture. No signs of fighting, abuse, or assault are evident.
+     - **Emotion Detected:** Neutral
+     - **Violence Score (0-100):** 0
+Violence Score: 0%
+

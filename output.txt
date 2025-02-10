@@ -1,63 +1,73 @@
+Frame: 3
+Description:  Violence Category: None
+    
+     Description: The image appears to show two individuals outdoors during daylight hours. One person is standing while another one is on the ground, with their body positioned as if they are running or walking quickly. There are no obvious signs of fighting, abuse, or assault in this image; it seems like an ordinary moment captured from a video.
+    
+     Emotion Detected: Neutral
+    
+     Violence Score (0-100): 0 
+Violence Score: 0%
+
+Frame: 8
+Description:  Based on the image provided, here is the analysis:
+
+     - **Violence Category:** Mild
+     - **Description:** The image appears to be from a surveillance camera showing two individuals engaged in a physical confrontation. One person seems to be holding another by their arm and neck, which could indicate a form of restraint or self-defense rather than direct aggression. There are no clear signs of fighting, abuse, or assault, but the situation appears to involve some level of confrontation.
+     - **Emotion Detected:** Panic (perceived from the rapid motion captured in the image)
+     - **Violence Score (0-100):** 30%
+
+The violence score is relatively low as it seems more like a struggle or altercation rather than an intense attack. The context and nature of the situation are not entirely clear due to the angle and quality of the video, so the assessment is based on the visible signs in the image. 
+Violence Score: 30%
+
+Frame: 2
+Description:  - **Violence Category:** Mild
+     - **Description:** The image shows a person on the ground with another person standing over them, seemingly pushing or holding onto them. There is no visible sign of injury or physical harm that would indicate severe violence. The context suggests that this could be an altercation or some form of conflict, but the level of force being used appears to be minimal.
+     - **Emotion Detected:** Aggression
+     - **Violence Score (0-100):** 30 
+Violence Score: 30%
+
+Frame: 4
+Description:  - **Violence Category:** Mild
+     - **Description:** The image shows a person running on what appears to be a sidewalk or street. There are no clear signs of fighting, abuse, or assault in this particular frame. The person's pose and the context do not suggest any immediate violent action.
+     - **Emotion Detected:** Aggression (the individual seems to be in motion with intent)
+     - **Violence Score (0-100):** 20
+
+It's important to note that this analysis is based on a single frame and does not capture the full context or any subsequent actions in the image. 
+Violence Score: 20%
+
+Frame: 7
+Description:  - **Violence Category:** Mild
+     - **Description:** The image shows a person lying on the ground with their legs bent at the knee, possibly after falling or being knocked down. There are no signs of intentional harm or fighting in this image. It is not clear whether the person is in distress or simply lying there due to another reason.
+     - **Emotion Detected:** Neutral (given the lack of context and no visible emotional expression)
+     - **Violence Score (0-100):** 0, as there are no indications of violence or harm being inflicted upon someone in this image. It appears to be a still from a video, possibly depicting an accident or a non-violent scene, rather than a violent one. 
+Violence Score: 0%
+
 Frame: 5
-Description:  - Violence Category: Mild
-     - Description: In the image, there appears to be an altercation taking place between two individuals outside during daylight. One person is holding onto the other person's shirt, and there seems to be a physical interaction occurring, which could indicate a disagreement or confrontation. There are no visible signs of severe violence such as weapons or intense physical harm.
-     - Emotion Detected: Panic (indicated by the stance and body language of one individual)
-     - Violence Score (0-100): 30 
+Description:  Based on the image provided, it is challenging to accurately determine the level of violence without additional context or information about the situation depicted. The blurred and low-quality nature of the image further complicates any conclusions regarding the intensity of the potential conflict or altercation.
+
+However, in general terms, we can infer that there may be some form of confrontation or aggression occurring between individuals within the frame. The presence of multiple people and what appears to be an object being thrown suggest a dynamic situation that could involve violence.
+
+Without more details or clearer visuals, it is not possible to provide a definitive categorization for the level of violence in this image.
+
+     - **Violence Category:** Unable to determine with confidence due to quality and context.
+     - **Description:** There is a scene depicting several individuals that may be involved in an altercation or confrontation. Signs of aggression or fighting can be observed, but the exact nature of the event remains uncertain.
+     - **Emotion Detected:** Aggression, with individuals potentially engaging in conflict.
+     - **Violence Score (0-100):** N/A due to insufficient information and image quality. 
 Violence Score: 0%
 
 Frame: 1
 Description:  - **Violence Category:** Mild
-     - **Description:** In this image, two men appear to be engaged in a physical altercation. There are signs of fighting as one man is lying on the ground, possibly after being pushed or knocked down by another person who seems to be pushing him away from the camera. They are both inside an indoor setting that looks like a room with a wall-mounted clock.
-     - **Emotion Detected:** Aggression
-     - **Violence Score (0-100):** 35 
-Violence Score: 35%
+     - **Description:** The image depicts two individuals engaged in what appears to be a physical altercation. One person is being held down by another, with both appearing to be in motion and possibly involved in an argument or conflict. There are no visible signs of severe harm or the use of weapons that would indicate a higher level of violence.
+     - **Emotion Detected:** Aggression (as one individual appears to be asserting their dominance over the other)
+     - **Violence Score (0-100):** 30
 
-Frame: 4
-Description:  - **Violence Category:** None
-     - **Description:** The image shows an animated gif of a person running or jumping in what appears to be an outdoor setting with vehicles and a paved ground. There are no signs of fighting, abuse, or assault as the person is not engaged in aggressive behavior towards another individual. It seems more like a playful moment or someone reacting to something they saw rather than any form of violence.
-     - **Emotion Detected:** Neutral
-     - **Violence Score (0-100):** 0, as the content is not violent in nature. 
-Violence Score: 0%
-
-Frame: 7
-Description:  - **Violence Category:** Mild
-     - **Description:** The image shows an individual falling to the ground, possibly after being hit by something or someone, as indicated by the motion blur suggesting a swift impact. There are no clear signs of fighting, abuse, or assault beyond the act of tripping or being pushed that caused the fall.
-     - **Emotion Detected:** Panic or Aggression (depending on whether they were tripped intentionally or not)
-     - **Violence Score (0-100):** 20
-     
-The image appears to capture a single moment of an accident, rather than an ongoing violent act. The emotions detected are likely due to the situation, but without context it's difficult to pinpoint the exact cause or nature of the interaction. The violence score is low because the content does not show an extended or extreme display of force or aggression; instead, it captures a brief moment of disruption and fall. 
-Violence Score: 20%
-
-Frame: 2
-Description:  - **Violence Category:** Severe
-     - **Description:** The image shows a person being held down on the ground, with another person on top of them, seemingly exerting force or control over the other individual. This can be indicative of physical violence, such as an assault or confrontation. There are no immediate signs of abuse or neglect in the scene.
-     - **Emotion Detected:** Aggression (the action being taken against the person on the ground)
-     - **Violence Score (0-100):** 85
-
-The score reflects the apparent intensity and physicality of the interaction between the two individuals. The act of holding someone down is a significant force, suggesting a high level of violence. The exact context or the nature of the conflict is not clear from the image alone, but the immediate impression is of a physically violent situation. 
-Violence Score: 85%
+This score takes into account the physical contact between the individuals, but it is important to note that this score reflects only what is visually apparent in the image and does not consider any potential unseen actions or circumstances. Additionally, without more context or information about the situation, it is challenging to provide a definitive assessment of the level of violence or the emotions involved beyond what can be seen directly in the image. 
+Violence Score: 30%
 
 Frame: 6
-Description:  - **Violence Category:** Mild
-     - **Description:** The image appears to show two individuals involved in some sort of altercation. It is unclear what the context is, but there are signs of physical contact or confrontation between the two subjects. There do not appear to be any overtly aggressive or extreme actions.
-     - **Emotion Detected:** Neutral
-     - **Violence Score (0-100):** 50
-
-Please note that without context or additional information, this analysis is based solely on the visual content of the image and does not take into account any external factors or the nature of the situation. 
-Violence Score: 50%
-
-Frame: 8
-Description:  Violence Category: Mild
-Description: The image appears to be a screenshot from a video that captures a physical altercation between two individuals outdoors. The situation suggests a confrontation or conflict, but it is not possible to determine the exact context of the event without more information. There are no signs of serious injury, and the intensity of the encounter does not seem extreme.
-
-Emotion Detected: Panic
-Violence Score (0-100): 20
-Note: The violence score reflects the immediate perception of physical harm or conflict based on visible signs in the image, such as contact between the individuals, body language, and any discernible injuries or defensive postures. It does not take into account the duration or severity of the event beyond what is immediately observable. 
-Violence Score: 0%
-
-Frame: 3
-Description:  Based on the image provided, it is not possible to confidently determine whether there is violence occurring or if any signs of fighting, abuse, or assault are present. The image appears to show someone in mid-air, possibly during a jump or some other action, but without context or more information, it is difficult to make an accurate assessment of the situation's nature or the emotions and intentions of those involved.
-
-Therefore, without further information, I will mark the violence category as "None." Please note that this classification is based solely on the visual information available in the image and does not take into account any possible contextual information about what led to the moment captured. 
-Violence Score: 0%
+Description:  - **Violence Category:** Severe
+     - **Description:** The image depicts an intense altercation with clear signs of physical violence. There are two people engaged in what appears to be a physical fight, which suggests a high level of aggression and confrontation.
+     - **Emotion Detected:** Aggression
+     - **Violence Score (0-100):** 95 
+Violence Score: 95%
 
